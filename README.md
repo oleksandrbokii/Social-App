@@ -5,19 +5,19 @@
 <img
 		width="210"
 		alt="Capture 1"
-		src="https://github.com/victory210/react-native-SocialApp/preview/capture-1.png">
+		src="https://github.com/victory210/react-native-SocialApp/tree/main/preview/capture-1.png">
 <img
 		width="210"
 		alt="Capture 2"
-		src="https://github.com/victory210/react-native-SocialApp/preview/capture-2.png">
+		src="https://github.com/victory210/react-native-SocialApp/tree/main/preview/capture-2.png">
 <img
 		width="210"
 		alt="Capture 3"
-		src="https://github.com/victory210/react-native-SocialApp/preview/capture-3.png">
+		src="https://github.com/victory210/react-native-SocialApp/tree/main/preview/capture-3.png">
 <img
 		width="210"
 		alt="Capture 4"
-		src="https://github.com/victory210/react-native-SocialApp/preview/capture-4.png">
+		src="https://github.com/victory210/react-native-SocialApp/tree/main/preview/capture-4.png">
 
 
 ## Installation and usage
